@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guitassinari&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guitassinari&show_icons=true&theme=radical)
+
 
 <!--
 **guitassinari/guitassinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
